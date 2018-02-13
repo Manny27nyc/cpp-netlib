@@ -55,7 +55,7 @@ class thread_group {
     std::unique_lock<std::mutex> guard(m);
 
     for (auto &thread : threads) {
-      if (thread->joinable()) {
+      if (thread->joinable() && thread->get_id() != boost::this_thread::get_id()) {
         thread->join();
       }
     }
