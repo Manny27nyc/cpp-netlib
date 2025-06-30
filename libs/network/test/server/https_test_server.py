@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 #!/usr/bin/env python
 # Copyright 2009 Jeroen Habraken
 # Copyright 2009 Dean Michael Berris

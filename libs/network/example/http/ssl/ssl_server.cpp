@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /*
  * Sample application based loosely on existing async server sample to
  *demonstrate ssl

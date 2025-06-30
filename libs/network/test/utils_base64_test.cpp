@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 #define BOOST_TEST_MODULE BASE64 Test
 #include <boost/config/warning_disable.hpp>
 #include <boost/test/unit_test.hpp>

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 #include <thread>
 #include <chrono>
 #include <boost/network/protocol/http/server.hpp>

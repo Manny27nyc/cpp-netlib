@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /*
     Read in a mime structure, parse it, and write it back to a file
     with the same name as the input file, but with "-Results" appended to the

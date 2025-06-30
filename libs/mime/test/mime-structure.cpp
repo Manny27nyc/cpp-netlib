@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /*
     Read in a mime structure, parse it, dump the structure to stdout
 

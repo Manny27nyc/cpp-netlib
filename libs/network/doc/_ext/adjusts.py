@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 from sphinx.writers import html as sphinx_htmlwriter
 
 class CppNetlibHTMLTranslator(sphinx_htmlwriter.SmartyPantsHTMLTranslator):

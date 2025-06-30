@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 
 // Copyright Dean Michael Berris 2010.
 // Distributed under the Boost Software License, Version 1.0.

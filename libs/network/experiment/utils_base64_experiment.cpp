@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 #include <boost/config.hpp>
 #include <boost/network/utils/base64/encode.hpp>
 #include <boost/network/utils/base64/encode-io.hpp>

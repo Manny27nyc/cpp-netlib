@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 #!/usr/bin/python
 #
 #	A python program to compare against the output from "mime-structure" tool.

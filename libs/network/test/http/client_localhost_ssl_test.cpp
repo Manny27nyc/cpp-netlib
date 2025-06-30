@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 
 // Copyright Divye Kapoor 2008.
 // Copyright 2016 Google, Inc.
